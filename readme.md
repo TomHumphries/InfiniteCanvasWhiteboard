@@ -9,7 +9,7 @@ You can open ```index.html``` to use the whiteboard in desktop mode, or run the 
 ```
 node app.js
 ```
-to access it at ```https://localhost:3000```. Depending on your firewall settings you should be able to connect to the server from a mobile device on your network by entering your computer's IP address in your mobile's browser like so: ```192.168.__.__:3000```.
+to access it at ```http://localhost:3000```. Depending on your firewall settings you should be able to connect to the server from a mobile device on your network by entering your computer's IP address in your mobile's browser like so: ```192.168.__.__:3000```.
 
 ## Desktop controls
 - Left click to draw
